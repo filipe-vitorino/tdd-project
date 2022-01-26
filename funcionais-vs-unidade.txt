@@ -1,0 +1,11 @@
+Teste de unidade: Este é o teste realmente realizado por desenvolvedores que possuem conhecimento de codificação.
+Esse teste é realizado na fase de codificação e faz parte do teste da caixa branca. 
+Quando um software vem para desenvolvimento, ele é desenvolvido no pedaço de código ou fatias de código conhecido como unidade.
+E testes individuais dessas unidades são chamados de testes de unidade realizados por desenvolvedores
+para descobrir algum tipo de erro humano, como falta de cobertura de declaração etc.
+
+Teste funcional: este teste é realizado na fase de teste e faz parte do teste de caixa preta.
+A execução real dos casos de teste escritos anteriormente. Esse teste é realmente realizado pelos testadores,
+eles encontram o resultado real de qualquer funcionalidade no site e comparam esse resultado ao resultado esperado.
+Se eles encontraram alguma disparidade, isso é um bug.
+
